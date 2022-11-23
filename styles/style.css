@@ -1,10 +1,53 @@
-
 /*-------------------------------------
  * customize material design icon sizes 
  *-------------------------------------
  */
 
-.material-icons.md-18 { font-size: 18px; }
-.material-icons.md-24 { font-size: 24px; }
-.material-icons.md-36 { font-size: 36px; }
-.material-icons.md-48 { font-size: 48px; }
+.material-icons.md-18 {
+    font-size: 18px;
+}
+
+.material-icons.md-24 {
+    font-size: 24px;
+}
+
+.material-icons.md-36 {
+    font-size: 36px;
+}
+
+.material-icons.md-48 {
+    font-size: 48px;
+}
+
+.bg-info {
+    background-color: #F3BB14 !important;
+}
+
+.navbar-light .navbar-brand {
+    color: #1D846E;
+}
+
+.btn-primary {
+    color: white;
+    font-size: 150%;
+    background-color: #F3BB14;
+    border-color: #F3BB14;
+    border-width: thick
+}
+
+body {
+    background-color: #3F89B9;
+}
+
+.navbar-brand {
+    font-family: 'Indie Flower', cursive;
+    font-size: 2.25rem;
+}
+
+.navbar-brand a {
+    color: #1D846E;
+}
+
+.text-muted {
+    color: #1D846E;
+}
