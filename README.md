@@ -1,41 +1,26 @@
 # Project Title or Name
 
 ## 1. Project Description
-This browser based web application to ... 
-
-
-## 2. Names of Contributors
-These are the members in our team: 
-* ...
-* ...
-* ...
+This browser based web application to myself, Aron, as a sample app 
 	
-## 3. Technologies Used
+## 2. Technologies Used
 Technologies used for this project:
 * HTML, CSS
 * JavaScript
 * Bootstrap 
-* ...
 
-## 4. Complete setup/installion/usage
+## 3. Complete setup/installion/usage
 Here are the steps ...
-* ...
-* ...
-* ...
+* clone this repo
+* open in VS code
+* right click index.html and open in live server
+* this app is not hosted and required the liver server addon the the follwoing instructions above
 
 ## 5. Known Bugs
 Here are some known bugs:
-* ...
-* ...
-* ...
-
-## 6. Features for Future
-What we'd like to build in the future:
-* ...
-* ...
-* ...
+* N/A
 	
-## 7. Contents of Folder
+## 6. Contents of Folder
 Content of the project folder:
 
 ```
